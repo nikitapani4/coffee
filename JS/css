@@ -1,0 +1,40 @@
+.head {
+	text-align: center;
+}
+
+.ingredients {
+	display: inline-block;
+	width: 24.7%;
+	background-color: aquamarine;
+	vertical-align:top
+ }
+
+ .ingredient {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+	height: 60px;
+	background-color: beige;
+ }
+
+ .ing {
+	margin: 10px;
+ }
+ .blok {
+	width: 100%;
+	background-color: antiquewhite;
+ }
+
+ .card {
+	width: 300px;
+	height: 500px;
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+	margin: 0 0 0 -150px;
+ }
+ 
+ .cimg {
+	width: 100%;
+
+ }
